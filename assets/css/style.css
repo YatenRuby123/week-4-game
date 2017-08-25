@@ -1,0 +1,73 @@
+body{
+	background: #00b09b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#crys{
+	background-color: brown;
+	color: white;
+	padding-bottom: 20px;
+	/*padding-right: -10px;*/
+	margin-right: 400px;
+	text-align: center;
+}
+h1{
+	padding-top: 10px;
+}
+
+.jumbotron{
+	background-color: #F3D5B2;
+	color: #008000;
+}
+
+#guessNumber{
+	background-color: #008000;
+	margin-right: 10px;
+	margin-bottom: 50px;
+	height: 116px;
+}
+
+#winLose
+{
+	background-color: #42f4c8;
+}
+
+#score
+{
+	background-color: #23baa8;
+	padding-bottom: 20px;
+	/*padding-right: -10px;*/
+	margin-right: 400px;
+	/*text-align: center;*/
+	color: white;
+}
+#counter{
+	background-color: #23baa8;
+	padding-bottom: 20px;
+	/*padding-right: -10px;*/
+	margin-right: 400px;
+	/*text-align: center;*/
+	height: 150px;
+	color: white;
+}
+#img1{
+	height:190px;
+	width: 168px;
+}
+#img2{
+	width: 168px;
+}
+#img3{
+	height:190px;
+	width: 168px;
+}
+#img4{
+	height:190px;
+	width: 168px;
+}
+
+
+{
+	
+}
